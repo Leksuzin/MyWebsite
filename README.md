@@ -1,5 +1,5 @@
 # MyWebsite
-My personal website. It is an "About Me" page that I will continue to develop in the future.
+My personal website in Polish. It is an "About Me" page that I will continue to develop in the future.
 # Technologies
 •HTML5
 # How it works?
