@@ -10,7 +10,7 @@
 
 <body>
 
-<h1>Autor:Leksuzin</h1>
+<h1 style="color: indigo;">Autor: Leksuzin</h1>
 <h4>Prawdziwe imię: Oliwer Szymański.</h4>
 
 <p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną. Do moich zainteresowań należą:</p>  
@@ -30,7 +30,8 @@
 <p>Mam również swój kanał na youtube:</p>
 <a href="https://www.youtube.com/@leksuzin/featured"> 
 Mój kanał na Youtube
-</a><p>:D, ale niestety już nic tam nie wrzucam może jeszcze do tego wrócę w niedalekiej przyszłości.</p>
+</a>
+:D, ale niestety już nic tam nie wrzucam może jeszcze do tego wrócę w niedalekiej przyszłości.</p>
 <p>Mam również kanał na twitchu</p>
 <a href="https://www.twitch.tv/leksuzin">
 Mój kanał na Twitch
@@ -38,7 +39,7 @@ Mój kanał na Twitch
 <p>A to jestem ja na social mediach:</p>
 <img src="Avatar.jpg" alt="Screen z gry Star Wars The Old Republic" width="250" height="500">
 <p>Jeśli zainteresowała cię ta strona to będzie bardzo mi miło, będę się starał aktualizował ciekawostki oraz tę stronę.</p>
-<h1>Podpisano: Leksuzin x_x</h1>
+<h1 style="color:indigo;">Podpisano: Leksuzin x_x</h1>
 
 </body>
 
