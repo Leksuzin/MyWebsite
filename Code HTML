@@ -9,8 +9,10 @@
 </head>
 
 <body style="Background-color:powderblue;">
+<button onclick="document.location='default.asp'" style="float:right">Login in</button>
+<button onclick="document.location='default.asp'" style="float:right">Login up</button>
 
-<h1 style="color: indigo;">Autor: Leksuzin</h1>
+<br><br><br><h1 style="text-align:center; color: indigo;">Autor: Leksuzin</h1>
 <hr>
 <h1>Prawdziwe imię: Oliwer Szymański.</h1>
 <h2>Wiek:27 lat</h2>
@@ -38,7 +40,7 @@
 <a href="https://www.youtube.com/@leksuzin/featured"> 
 Mój kanał na Youtube
 </a>
-:D, ale niestety już nic tam nie wrzucam może jeszcze do tego wrócę w niedalekiej przyszłości.</p>
+<p>:D, ale niestety już nic tam nie wrzucam może jeszcze do tego wrócę w niedalekiej przyszłości.</p>
 
 <p>Mam również kanał na twitchu</p>
 <a href="https://www.twitch.tv/leksuzin">
