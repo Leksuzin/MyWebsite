@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+
+<head>
+
+<title>Leksuzin</title>
+
+</head>
+
+<body style="Background-color:powderblue;">
+<button onclick="document.location='default.asp'" style="float:right">Login in</button>
+<button onclick="document.location='default.asp'" style="float:right">Login up</button>
+
+<br><br><br><h1 style="text-align:center; color: indigo;">Autor: Leksuzin</h1>
+<hr>
+<h1>Prawdziwe imię: Oliwer Szymański.</h1>
+<h2>Wiek:27 lat</h2>
+<h2>Kraj:Polska</h2>
+<h2>Miejscowość:Gdańsk</h2>
+<h3>Opis wyglądu: wzrost:179 cm, waga:74 kg, kolor oczu:piwne, kolor włosów:ciemny-blond.</h3>
+<hr>
+<p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p> 
+<hr>
+<table style="width:100%">
+<tr>
+<th>Zainteresowania</th>
+<th>Gry</th>
+<th>Seriale</th>
+</tr>
+<tr>
+<td>•Czytanie książek.</td>
+
+<td>•Oglądanie filmów.</td>
+
+<td>•Programowanie.</td>
+
+<td>•Gotowanie.</td>
+
+<td>•Podróż.</td>
+</tr>
+</table>
+
+
+<p>Niedługo planuję zacząć kurs dla dorosłych na kierunku Technik Programista w Teb Edukacja w Gdańsku.</p>
+
+<p>Mam również swój kanał na youtube:</p>
+<a href="https://www.youtube.com/@leksuzin/featured"> 
+Mój kanał na Youtube
+</a>
+<p>:D, ale niestety już nic tam nie wrzucam może jeszcze do tego wrócę w niedalekiej przyszłości.</p>
+
+<p>Mam również kanał na twitchu</p>
+<a href="https://www.twitch.tv/leksuzin">
+Mój kanał na Twitch
+</a>
+
+<p>A to jestem ja na social mediach:</p>
+<img src="Avatar.jpg" alt="Screen z gry Star Wars The Old Republic" width="250" height="500">
+
+<p>Ulubionym kolorem jest fioletowy/Indigo</p>
+
+<p>Bardzo lubię grać w gry komputerowe, lubię każdy gatunek ale nie każda jest w stanie mnie zainteresować.</p>
+
+<p>Chciałbym pojechać za granicę w niedalekiej przyszłości.</p>
+
+<p>Jeśli zainteresowała cię ta strona to będzie bardzo mi miło, będę się starał aktualizował ciekawostki oraz tę stronę.</p>
+<hr>
+<h2 style="color:indigo;">Podpisano: Leksuzin x_x</h2>
+
+</body>
+
+</html>
