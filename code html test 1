@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 
 <html lang="pl">
-
+<style>
+table, th, td {
+border:1px solid black;
+}
+</style>
 <head>
 
 <title>Leksuzin</title>
@@ -20,27 +24,23 @@
 <h2>Miejscowość:Gdańsk</h2>
 <h3>Opis wyglądu: wzrost:179 cm, waga:74 kg, kolor oczu:piwne, kolor włosów:ciemny-blond.</h3>
 <hr>
-<p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p> 
-<hr>
 <table style="width:100%">
-<tr>
+<td>
 <th>Zainteresowania</th>
-<th>Gry</th>
-<th>Seriale</th>
-</tr>
-<tr>
-<td>•Czytanie książek.</td>
+</td>
+<td>•Czytanie książek</td>
 
-<td>•Oglądanie filmów.</td>
+<td>•Oglądanie filmów</td>
 
-<td>•Programowanie.</td>
+•Programowanie
 
-<td>•Gotowanie.</td>
+•Gotowanie
 
-<td>•Podróż.</td>
+•Podróż
 </tr>
 </table>
-
+<hr>
+<p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p>
 
 <p>Niedługo planuję zacząć kurs dla dorosłych na kierunku Technik Programista w Teb Edukacja w Gdańsku.</p>
 
