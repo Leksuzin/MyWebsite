@@ -4,13 +4,22 @@
 
 <head>
 
-<title>Leksuzin.dev</title>
+<title>Leksuzin</title>
+
+<style>
+table, th, td {
+border:1px solid black;
+}
+th {
+text-align: central;
+}
+</style>
 
 </head>
 
 <body style="Background-color:powderblue;">
-<button onclick="document.location='default.asp'" style="float:right">Login in</button>
-<button onclick="document.location='default.asp'" style="float:right">Login up</button>
+<button onclick="document.location='default.asp'" style="float:right">Log in</button>
+<button onclick="document.location='default.asp'" style="float:right">Sign up</button>
 
 <br><br><br><h1 style="text-align:center; color: indigo;">Autor: Leksuzin</h1>
 <hr>
@@ -20,21 +29,20 @@
 <h2>Miejscowość:Gdańsk</h2>
 <h3>Opis wyglądu: wzrost:179 cm, waga:74 kg, kolor oczu:piwne, kolor włosów:ciemny-blond.</h3>
 <hr>
-<p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p>
-<h4>Zainteresowania:</h4>  
 
+<h2>Zainteresowania:</h2>
 <p>
-•Czytanie książek.<br> 
-
-•Oglądanie filmów.<br>
-
-•Programowanie.<br>
-
-•Gotowanie.<br>
-
-•Podróż.</p>
+•Czytanie książek<br>
+•Oglądanie filmów<br>
+•Programowanie<br>
+•Gotowanie<br>
+•Podróż<br>
+</p>
+<hr>
+<p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p>
 
 <p>Niedługo planuję zacząć kurs dla dorosłych na kierunku Technik Programista w Teb Edukacja w Gdańsku.</p>
+<p>Chciałbym pojechać za granicę w niedalekiej przyszłości.</p>
 
 <p>Mam również swój kanał na youtube:</p>
 <a href="https://www.youtube.com/@leksuzin/featured"> 
@@ -53,9 +61,31 @@ Mój kanał na Twitch
 <p>Ulubionym kolorem jest fioletowy/Indigo</p>
 
 <p>Bardzo lubię grać w gry komputerowe, lubię każdy gatunek ale nie każda jest w stanie mnie zainteresować.</p>
-
-<p>Chciałbym pojechać za granicę w niedalekiej przyszłości.</p>
-
+<hr>
+<h2>Moje serie na youtube</h2>
+<table width="100%">
+<tr>
+<th>Gra</th>
+<th>Ocena</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>Star Wars The Old Republic</td>
+<td>10/10</td>
+<td>Nieskończony</td>
+</tr>
+<tr>
+<td>Two Worlds II</td>
+<td>4/10</td>
+<td>Zakończony</td>
+</tr>
+<tr>
+<td>Call of Juarez Gunslinger</td>
+<td>8/10</td>
+<td>Zakończony</td>
+</tr>
+</table>
+<hr>
 <p>Jeśli zainteresowała cię ta strona to będzie bardzo mi miło, będę się starał aktualizował ciekawostki oraz tę stronę.</p>
 <hr>
 <h2 style="color:indigo;">Podpisano: Leksuzin x_x</h2>
