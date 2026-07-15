@@ -9,6 +9,7 @@
 <style>
 table, th, td {
 border:1px solid black;
+border-collapse: collapse;
 }
 th {
 text-align: center;
@@ -18,7 +19,7 @@ text-align: center;
 </head>
 
 <body style="Background-color:powderblue;">
-<button onclick="document.location='default.asp'" style="float:right">Log in</button>
+<button onclick="document.location='default.asp'" style="float:right">Sign in</button>
 <button onclick="document.location='default.asp'" style="float:right">Sign up</button>
 
 <br><br><br><h1 style="text-align:center; color: indigo;">Autor: Leksuzin</h1>
@@ -31,14 +32,15 @@ text-align: center;
 <hr>
 
 <h2>Zainteresowania:</h2>
-<p>
-•Czytanie książek<br>
-•Oglądanie filmów<br>
-•Programowanie<br>
-•Gotowanie<br>
-•Podróż<br>
-</p>
+<ul>
+<li>Czytanie książek</li>
+<li>Oglądanie filmów</li>
+<li>Programowanie</li>
+<li>Gotowanie</li>
+<li>Podróż</li>
+</ul>
 <hr>
+<h3>Description: </h3>
 <p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p>
 
 <p>Niedługo planuję zacząć kurs dla dorosłych na kierunku Technik Programista w Teb Edukacja w Gdańsku.</p>
