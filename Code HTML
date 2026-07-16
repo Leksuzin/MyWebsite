@@ -30,7 +30,7 @@ text-align: center;
 <h2>Miejscowość:Gdańsk</h2>
 <h3>Opis wyglądu: wzrost:179 cm, waga:74 kg, kolor oczu:piwne, kolor włosów:ciemny-blond.</h3>
 <hr>
-
+<div>
 <h2>Zainteresowania:</h2>
 <ul>
 <li>Czytanie książek</li>
@@ -39,7 +39,9 @@ text-align: center;
 <li>Gotowanie</li>
 <li>Podróż</li>
 </ul>
+</div>
 <hr>
+<div>
 <h3>Description: </h3>
 <p>To jest mój pierwszy projekt,zaczynam karierę w branży IT, jestem osobą dość spokojną, cichą oraz kreatywną.</p>
 
@@ -63,6 +65,7 @@ Mój kanał na Twitch
 <p>Ulubionym kolorem jest fioletowy/Indigo</p>
 
 <p>Bardzo lubię grać w gry komputerowe, lubię każdy gatunek ale nie każda jest w stanie mnie zainteresować.</p>
+</div>
 <hr>
 <h2>Moje serie na youtube</h2>
 <table width="100%">
